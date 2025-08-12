@@ -1,3 +1,12 @@
+GATech:
+- Databases - https://edstem.org/us/courses/47527/lessons
+- AI - https://edstem.org/us/courses/46010/lessons
+- Algo - https://edstem.org/us/courses/47529/lessons
+- OS - https://edstem.org/us/courses/46014/lessons
+- AOS - https://edstem.org/us/courses/47520/lessons
+- Security - https://edstem.org/us/courses/46012/lessons
+
+
 System design:
 - System design primer - https://github.com/donnemartin/system-design-primer
 - ByteByteGo - https://bytebytego.com/
